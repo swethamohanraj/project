@@ -214,6 +214,10 @@ plt.imshow(cv2.cvtColor(img,cv2.COLOR_BGR2RGB))
 
 ## Result :
 Thus a python program using OpenCV is written to do the following image manipulations:
+i) Extract ROI from an image. ii) Perform handwritting detection in an image. iii) Perform object detection with label in an image.
+
+## Result :
+Thus a python program using OpenCV is written to do the following image manipulations:
 
 i) Extract ROI from an image. ii) Perform handwritting detection in an image. iii) Perform object detection with label in an image.
 
