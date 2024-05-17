@@ -211,14 +211,8 @@ plt.imshow(cv2.cvtColor(img,cv2.COLOR_BGR2RGB))
 
 ## III)Perform object detection with label in an image:
 ![image](https://github.com/swethamohanraj/project/assets/94228215/f013cf98-0fa0-4ce4-9fa9-f9b12747a90e)
-
-## Result :
-Thus a python program using OpenCV is written to do the following image manipulations:
-i) Extract ROI from an image. ii) Perform handwritting detection in an image. iii) Perform object detection with label in an image.
-
-## Result :
-Thus a python program using OpenCV is written to do the following image manipulations:
-
-i) Extract ROI from an image. ii) Perform handwritting detection in an image. iii) Perform object detection with label in an image.
-
 ![image](https://github.com/swethamohanraj/project/assets/94228215/3e4a66ff-a37e-45b2-be39-1ddb487d19a4)
+## Result :
+Thus a python program using OpenCV is written to do the following image manipulations:
+i) Extract ROI from an image. ii) Perform handwritting detection in an image. iii) Perform object detection with label in an image.
+
